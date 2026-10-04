@@ -110,3 +110,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 ## 📜 License
 
 Created for project and development purposes.
+
